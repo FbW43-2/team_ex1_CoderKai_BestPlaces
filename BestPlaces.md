@@ -10,6 +10,7 @@
 * Nah am Wasser
 
 
+
 ### Daniel
 
 - McDonald's
@@ -20,7 +21,7 @@
 
 ### Dominik
 
-> nice places in Bochum
+# nice places in Bochum
 
 - Blondies Bio Restaurant
 - I AM Love - Ice Cream
