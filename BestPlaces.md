@@ -15,7 +15,7 @@
 - THREE SIXTY Bochum
 - Bistro & Cafe Vincent
 - Marvins
-- Onkel Buddy - Street Foot Imbiss
+- Onkel Buddy - Street Foot
 
 
 ### Mark
