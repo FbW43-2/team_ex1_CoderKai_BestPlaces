@@ -2,12 +2,12 @@
 
 ## A list of good cafes and restaurants in Germany
 
-### 
+### Abdullah
 
-###
+### Daniel
 
-###
+### Dominik
 
-###
+### Mark
 
 :)
