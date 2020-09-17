@@ -4,6 +4,12 @@
 
 ### Abdullah
 
+# Cafes in Berlin:
+* Nathanja & Heinrich
+* Zimt und Mehl
+* Nah am Wasser
+
+
 ### Daniel
 
 ### Dominik
