@@ -20,7 +20,7 @@
 
 ### Dominik
 
-> nice places in Bochum
+`nice places in Bochum`
 
 - Blondies Bio Restaurant
 - I AM Love - Ice Cream
