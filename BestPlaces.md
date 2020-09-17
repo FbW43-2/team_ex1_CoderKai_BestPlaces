@@ -6,6 +6,12 @@
 
 ### Daniel
 
+- McDonald's
+- Starbucks
+- Domino's Pizza
+- KFC
+- Burger King
+
 ### Dominik
 
 ### Mark
