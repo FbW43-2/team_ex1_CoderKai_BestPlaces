@@ -21,7 +21,7 @@
 
 ### Dominik
 
-> nice places in Bochum or In Hamburg
+`nice places in Bochum`
 
 - Blondies Bio Restaurant
 - I AM Love - Ice Cream
